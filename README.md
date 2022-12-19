@@ -1,10 +1,4 @@
 # StopWatch
-#Project Code: temporary-partner-4254
-Apna Mart- India Ki Apni Dukaan
-### Hi our Project Team Name is Apna Mart
-
-# StopWatch
-<img src="https://www.jiomart.com/images/cms/aw_rbslider/slides/1667281294_bLOCK_BUSTER_dEALS_1_Desktop.jpg" alt="apnamart" />
 <hr>
  Stopwatch - A stopwatch is a timepiece designed to measure the amount of time that elapses between its activation and deactivation.
 <br>
